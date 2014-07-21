@@ -1,3 +1,11 @@
 1. error: The requested URL returned error: 403 Forbidden while accessing [url]
    modify .git/config 
    url = https://kelvinlyan@github.com/kelvinlyan/xxx.git
+
+2. Everything up-to-date
+   (git push with no additional arguments only pushes branches that exist in the remote already.
+   if the remote repository is empty, nothing will be pushed. 
+   In this case, explicitly specify a branch to push.)
+   git push origin master
+
+
