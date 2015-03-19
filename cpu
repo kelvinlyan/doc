@@ -1,0 +1,16 @@
+cat /proc/cpuinfo
+
+
+physical id
+--物理封装的处理器id
+
+cpu cores
+--处于相同物理封装的处理器中的内核数量
+
+core id
+--每个核心的id
+
+processor
+--逻辑处理器的id
+
+
