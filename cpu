@@ -1,6 +1,5 @@
 cat /proc/cpuinfo
 
-
 physical id
 --物理封装的处理器id
 
