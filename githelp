@@ -8,4 +8,5 @@
    In this case, explicitly specify a branch to push.)
    git push origin master
 
+3. unset SSH_ASKPASS
 
